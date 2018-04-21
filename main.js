@@ -54,4 +54,4 @@ function getFibValues(a) { // не правильно работает с 0 1
         }
     return fibvalues;
     }
-console.log(getFibValues(10));
+//console.log(getFibValues(10));
