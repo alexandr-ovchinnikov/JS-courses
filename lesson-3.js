@@ -38,7 +38,7 @@ console.log(getFilteredCars(carsAvaragePrices));
 
 
 
-const arrOfNumbers = [1,2,3,4,5];
+let arrOfNumbers = [1,2,3,4,5];
 
 function getPartialAmountArray(arr){
     let result = [];
